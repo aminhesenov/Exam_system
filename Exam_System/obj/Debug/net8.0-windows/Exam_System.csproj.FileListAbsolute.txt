@@ -1,0 +1,17 @@
+D:\C# dersleri\Exam_System\Exam_System\bin\Debug\net8.0-windows\Exam_System.exe
+D:\C# dersleri\Exam_System\Exam_System\bin\Debug\net8.0-windows\Exam_System.deps.json
+D:\C# dersleri\Exam_System\Exam_System\bin\Debug\net8.0-windows\Exam_System.runtimeconfig.json
+D:\C# dersleri\Exam_System\Exam_System\bin\Debug\net8.0-windows\Exam_System.dll
+D:\C# dersleri\Exam_System\Exam_System\bin\Debug\net8.0-windows\Exam_System.pdb
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.Form1.resources
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.Properties.Resources.resources
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.csproj.GenerateResource.cache
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.AssemblyInfoInputs.cache
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.AssemblyInfo.cs
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.dll
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\refint\Exam_System.dll
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.pdb
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\Exam_System.genruntimeconfig.cache
+D:\C# dersleri\Exam_System\Exam_System\obj\Debug\net8.0-windows\ref\Exam_System.dll

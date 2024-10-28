@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# dersleri\\Exam_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3679EB-F22E-42F1-9BFA-C1DC3C98EA39}|Exam_System\\Exam_System.csproj|d:\\c# dersleri\\exam_system\\exam_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3679EB-F22E-42F1-9BFA-C1DC3C98EA39}|Exam_System\\Exam_System.csproj|solutionrelative:exam_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3679EB-F22E-42F1-9BFA-C1DC3C98EA39}|Exam_System\\Exam_System.csproj|d:\\c# dersleri\\exam_system\\exam_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3679EB-F22E-42F1-9BFA-C1DC3C98EA39}|Exam_System\\Exam_System.csproj|solutionrelative:exam_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# dersleri\\Exam_System\\Exam_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Exam_System\\Form1.cs",
+              "ToolTip": "D:\\C# dersleri\\Exam_System\\Exam_System\\Form1.cs",
+              "RelativeToolTip": "Exam_System\\Form1.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwMUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:16:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# dersleri\\Exam_System\\Exam_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Exam_System\\Form1.cs",
+              "ToolTip": "D:\\C# dersleri\\Exam_System\\Exam_System\\Form1.cs [Design]",
+              "RelativeToolTip": "Exam_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:25:19.912Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
